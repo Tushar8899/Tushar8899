@@ -1,5 +1,5 @@
 ## Hi there 👋
- About Me:
+
 My name is Tushar Tyagi, and I am a final-year BCA student, set to graduate in the next three months. <br>I am passionate about web development and continuously working on enhancing my technical skills. <br>I have hands-on experience in HTML, CSS, JavaScript, and Bootstrap, and I have earned certifications in HTML and CSS to strengthen my foundation.<br>I am currently enrolling in additional bootcamps to expand my knowledge and stay updated with industry trends. <br>As a self-motivated and confident individual, I am eager to learn new technologies, improve my problem-solving abilities, and contribute effectively to real-world projects. <br>I believe in consistent growth, positive thinking, and continuous skill development to build a strong career in the tech industry.
 
 
